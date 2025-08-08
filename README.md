@@ -33,7 +33,7 @@ src/ \
 │   └── ui/          # Reusable UI primitives (ShadCN-style) \
 │       ├── button.tsx \
 │       ├── input.tsx \
-│       └── ...
+│       └── ... \
 ├── hooks/           # Custom React hooks \
 
 
