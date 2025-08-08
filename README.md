@@ -25,17 +25,16 @@
 
 ### Folder structure
 src/
-├── assets/ # Static assets (images, icons, etc.)
 ├── components/
-│ ├── features/ # Domain-specific components
-│ │ ├── LeagueCard.tsx
-│ │ ├── LeagueList.tsx
-│ │ └── Badge.tsx
-│ └── ui/ # Reusable UI primitives (ShadCN-style)
-│ ├── button.tsx
-│ ├── input.tsx
-│ └── ...
-├── hooks/ # Custom React hooks
+│   ├── features/    # Domain-specific components
+│   │   ├── LeagueCard.tsx
+│   │   ├── LeagueList.tsx
+│   │   └── Badge.tsx
+│   └── ui/          # Reusable UI primitives (ShadCN-style)
+│       ├── button.tsx
+│       ├── input.tsx
+│       └── ...
+├── hooks/           # Custom React hooks
 
 
 ## React Query Usage
