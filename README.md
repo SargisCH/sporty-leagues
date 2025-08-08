@@ -24,17 +24,17 @@
    ```
 
 ### Folder structure
-src/
-├── components/
-│   ├── features/    # Domain-specific components
-│   │   ├── LeagueCard.tsx
-│   │   ├── LeagueList.tsx
-│   │   └── Badge.tsx
-│   └── ui/          # Reusable UI primitives (ShadCN-style)
-│       ├── button.tsx
-│       ├── input.tsx
+src/ \
+├── components/ \
+│   ├── features/    # Domain-specific components \
+│   │   ├── LeagueCard.tsx \
+│   │   ├── LeagueList.tsx \
+│   │   └── Badge.tsx \
+│   └── ui/          # Reusable UI primitives (ShadCN-style) \
+│       ├── button.tsx \
+│       ├── input.tsx \
 │       └── ...
-├── hooks/           # Custom React hooks
+├── hooks/           # Custom React hooks \
 
 
 ## React Query Usage
